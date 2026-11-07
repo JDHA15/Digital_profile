@@ -20,7 +20,7 @@ export default function Skill(){
     <span className="absolute -left-[33px] top-1 w-4 h-4 rounded-full bg-sky-400 border-4 border-[#0a0f1c]"></span>
 
     <h1 className="text-white text-sm font-bold sm:text-base font-medium">
-      Course of Power Point - October 18, 2026
+    PowerPoint Course - October 18, 2026
     </h1>
 
     <button 
@@ -50,7 +50,7 @@ export default function Skill(){
     <span className="absolute -left-[33px] top-1 w-4 h-4 rounded-full bg-sky-400 border-4 border-[#0a0f1c]"></span>
 
     <h1 className="text-white text-sm  font-bold sm:text-base font-medium">
-      Psychological First Aid Course - september 23, 2026
+      Psychological First Aid Course - September 23, 2026
     </h1>
 
     <button 

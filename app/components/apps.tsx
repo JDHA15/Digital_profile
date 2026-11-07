@@ -36,7 +36,7 @@ export default function Work(){
     </div>
 
     <p className="text-gray-400 mt-2 text-sm">
-      A plattaform to compare prices of markets, including a system to help you calculating your personal budget.
+      A platform to compare prices of markets, including a system to help you calculating your personal budget.
     </p>
     <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 mt-5">
       <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
@@ -138,7 +138,7 @@ export default function Work(){
     </div>
 
     <p className="text-gray-400 mt-2 text-sm">
-      A website to buy and sell verified properties, with technologies as Next.js, GeminiAI and Tesseract OCR.
+    A platform designed to verify property ownership and improve trust in real estate transactions.
     </p>
     <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 mt-5">
       <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
@@ -162,7 +162,7 @@ export default function Work(){
     </div>
 
     <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
-      Tesserac
+      Tesseract OCR
     </div>
     </div><br />
     <h1 className="text-gray-400 mt-2 text-sm"><span className="font-bold text-gray-400 mt-2 text-sm">Role: </span>Product Owner responsible for overseeing tool functionality, validating performance, and developing the solutions offered to users.</h1> <br/>

@@ -22,7 +22,7 @@ export default function Contact() {
           </span>
 
           <h2 className="text-white text-xl sm:text-2xl font-semibold mt-1">
-            Let's toalk together
+            Let's talk together
           </h2>
         </div>
 

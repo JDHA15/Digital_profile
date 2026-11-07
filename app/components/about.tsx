@@ -25,10 +25,7 @@ export default function About() {
         </div>
 
         <p className="text-slate-400 text-xs sm:text-sm leading-relaxed max-w-xl">
-          I am a student and developer that is constantly learning,
-          with interests in medicine, technology and problem solving.
-          Creating solutions is something that motivates me, since
-          I like to make a positive impact on people's lives.
+          I am a student and software developer who is constantly learning, with a strong interest in medicine, technology, and problem-solving. I enjoy creating digital solutions that address real-world challenges and make a positive impact on people's lives.
         </p>
 
         {/* INFORMACIÓN PERSONAL */}
