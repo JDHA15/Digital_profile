@@ -10,7 +10,7 @@ export default function Work(){
           </span>
 
           <h2 className="text-white text-xl sm:text-2xl font-semibold mt-1">
-            Important projects
+            Featured Projects
           </h2>
         </div>
 
@@ -36,7 +36,7 @@ export default function Work(){
     </div>
 
     <p className="text-gray-400 mt-2 text-sm">
-      A platform to compare prices of markets, including a system to help you calculating your personal budget.
+     A platform designed to compare market prices and help users manage their personal budgets through an integrated budgeting system.
     </p>
     <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 mt-5">
       <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
@@ -81,7 +81,7 @@ export default function Work(){
   </div>
 
   <p className="text-gray-400 mt-2 text-sm">
-    A website to discover and sell properties. Using AI as Gemini AI to get help about buying the correct house.
+    A real estate platform that allows users to discover and list properties, integrating Gemini AI to assist buyers in making informed property decisions.
   </p>
 
   <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 mt-5">

@@ -33,7 +33,7 @@ export default function Home(){
       <h2 className="text-[clamp(1.5rem,4vw,3rem)] leading-tight">
         Software <span className="text-sky-300">Developer</span>
         <br className="hidden sm:block" />
-        {" "}& creator of{" "}
+        {" "}& Creator of{" "}
         <span className="text-sky-300">
           Digital solutions.
         </span>
