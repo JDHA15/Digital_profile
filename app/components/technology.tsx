@@ -16,22 +16,30 @@ import {
   SiPrisma,
   SiPostgresql,
   SiSupabase,
-  SiClerk
+  SiClerk,
+  SiGooglegemini,
+  SiFigma, 
+  SiOllama,
+  SiTailwindcss
 } from "react-icons/si";
 
 const technologies = [
   { name: "HTML", icon: FaHtml5, color: "text-orange-500" },
-  { name: "CSS", icon: FaCss3Alt, color: "text-blue-500" },
-  { name: "JavaScript", icon: FaJs, color: "text-yellow-400" },
-  { name: "React", icon: FaReact, color: "text-sky-400" },
   { name: "Next.js", icon: SiNextdotjs, color: "text-white" },
-  { name: "Python", icon: FaPython, color: "text-yellow-400" },
   { name: "MySQL", icon: SiMysql, color: "text-blue-400" },
   { name: "GitHub", icon: FaGithub, color: "text-white-500" },
+  { name: "JavaScript", icon: FaJs, color: "text-yellow-400" },
+  { name: "React", icon: FaReact, color: "text-sky-400" },
   {name: "Postgresql", icon: SiPostgresql, color: "text-blue-400"},
+  {name: "Clerk", icon: SiClerk, color: "text-[#6C47FF]"},
+  { name: "Python", icon: FaPython, color: "text-yellow-400" },
+  {name: "Tailwind Css", icon: SiTailwindcss, color: "text-[#06B6D4]"},
   {name: "Supabase", icon: SiSupabase, color: "text-[#3ECF8E]"},
+  {name: "Figma", icon: SiFigma, color: "text-[#A259FF]"},
+  { name: "CSS", icon: FaCss3Alt, color: "text-blue-500" },
+  {name: "Google Gemini", icon: SiGooglegemini, color: "text-[#8B83FF]"},
   {name: "Prisma", icon: SiPrisma, color: "text-white"},
-  {name: "Clerk", icon: SiClerk, color: "text-[#6C47FF]"}
+  {name: "Ollama", icon: SiOllama, color: "text-white"},
 ];
 
 export default function Technologies() {
@@ -41,7 +49,7 @@ export default function Technologies() {
       {/* ENCABEZADO */}
       <div>
         <span className="text-sky-400 text-[10px] sm:text-xs font-bold tracking-widest uppercase">
-          // Skills
+          // Technologies
         </span>
 
         <h2 className="text-white text-xl sm:text-2xl font-semibold mt-1">

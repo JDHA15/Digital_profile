@@ -7,6 +7,7 @@ import AboutSection from "./components/connect"
 import Work from "./components/apps"
 import Footer from "./components/footer"
 import Skill from "./skills"
+import Contact from "./components/contact"
 export default function Home(){
   return(
     
@@ -70,8 +71,10 @@ export default function Home(){
   </a>
 
   <a
-    href="mailto:davidjosueha@gmail.com"
+    href="https://mail.google.com/mail/?view=cm&fs=1&to=davidjosueha@gmail.com&su=Portfolio%20Contact&body=Hello%20Josu%C3%A9%2C%0A%0AI'm%20reaching%20out%20to%20you%20through%20your%20portfolio.%0A%0AName%3A%20%0ACompany%3A%20%0A%0AMessage%3A%0A%0A%0ABest%20regards%2C%0A"
     aria-label="Enviar correo"
+    target="_blank"
+    rel="noopener noreferrer"
     className="text-2xl text-gray-300 transition-all duration-300 hover:scale-110 hover:text-sky-300 sm:text-3xl"
   >
     <FiMail />
@@ -99,6 +102,9 @@ export default function Home(){
   </div>
   <div id="experience" className="mx-auto max-w-7xl flex-col items-center gap-10 px-6 py-12 sm:px-10 md:flex-row md:justify-between md:gap-8 lg:px-20 lg:py-20 scroll-mt-24">
     <Skill/>
+  </div>
+  <div id="contact" className="mx-auto max-w-7xl flex-col items-center gap-10 px-6 py-12 sm:px-10 md:flex-row md:justify-between md:gap-8 lg:px-20 lg:py-20 scroll-mt-24">
+    <Contact/>
   </div>
 
 <div className="items-center">

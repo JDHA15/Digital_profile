@@ -36,7 +36,7 @@ export default function Work(){
     </div>
 
     <p className="text-gray-400 mt-2 text-sm">
-      A plattaform to compare prices of markets
+      A plattaform to compare prices of markets, including a system to help you calculating your personal budget.
     </p>
     <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 mt-5">
       <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
@@ -56,7 +56,8 @@ export default function Work(){
     </div>
 
     </div><br />
-    <h1 className="text-gray-400 mt-2 text-sm"><span className="font-bold text-gray-400 mt-2 text-sm">Role: </span>Developer</h1> <br/>
+    <h1 className="text-gray-400 mt-2 text-sm"><span className="font-bold text-gray-400 mt-2 text-sm">Role: </span>Software Developer focused on implementing, optimizing, and maintaining the functionality of the features offered to users.</h1> <br/>
+    <h1 className="text-gray-400 mt-2 text-sm"><span className="font-bold text-gray-400 mt-2 text-sm">Year: </span>2024</h1> <br/>
 
   </div>
 
@@ -64,7 +65,7 @@ export default function Work(){
 
   <div className="overflow-hidden rounded-xl">
     <Image
-      src="/havenup.png"
+      src="/aboutt.png"
       alt="HavenUp logo"
       width={250}
       height={250}
@@ -74,11 +75,13 @@ export default function Work(){
 
   <div className="flex items-center justify-between mt-5">
     <h1 className="text-2xl font-semibold">HavenUp</h1>
-    <FiArrowUpRight className="text-2xl group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
+    <a href="https://haven-up-website.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <FiArrowUpRight className="text-2xl group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
+      </a>
   </div>
 
   <p className="text-gray-400 mt-2 text-sm">
-    A website to discover and sell properties.
+    A website to discover and sell properties. Using AI as Gemini AI to get help about buying the correct house.
   </p>
 
   <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 mt-5">
@@ -100,7 +103,7 @@ export default function Work(){
     </div>
 
     <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
-      Ollama
+      Gemini
     </div>
 
     <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
@@ -110,7 +113,8 @@ export default function Work(){
    
 
   </div> <br />
-  <h1 className="text-gray-400 mt-2 text-sm"><span className="font-bold text-gray-400 mt-2 text-sm">Role: </span>Programmer</h1> <br/>
+  <h1 className="text-gray-400 mt-2 text-sm"><span className="font-bold text-gray-400 mt-2 text-sm">Role: </span>Software Developer responsible for implementing user authentication features, including registration and login functionalities.</h1> <br/>
+  <h1 className="text-gray-400 mt-2 text-sm"><span className="font-bold text-gray-400 mt-2 text-sm">Year: </span>2025</h1> <br/>
 <a href="https://github.com/Tech-LeoF/HavenUp-Website.git" className="text-sky-400" target="_blank" rel="noopener noreferrer" >View Github repository</a>
 </div>
   <div className="group border border-gray-700 rounded-2xl p-5 shadow-lg hover:shadow-xl hover:border-gray-500 transition-all duration-300">
@@ -134,7 +138,7 @@ export default function Work(){
     </div>
 
     <p className="text-gray-400 mt-2 text-sm">
-      A website to buy and sell verified properties.
+      A website to buy and sell verified properties, with technologies as Next.js, GeminiAI and Tesseract OCR.
     </p>
     <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 mt-5">
       <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
@@ -154,14 +158,15 @@ export default function Work(){
     </div>
 
     <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
-      Gemini API
+      Gemini
     </div>
 
     <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
-      Tesseract
+      Tesserac
     </div>
     </div><br />
-    <h1 className="text-gray-400 mt-2 text-sm"><span className="font-bold text-gray-400 mt-2 text-sm">Role: </span>Product Owner</h1> <br/>
+    <h1 className="text-gray-400 mt-2 text-sm"><span className="font-bold text-gray-400 mt-2 text-sm">Role: </span>Product Owner responsible for overseeing tool functionality, validating performance, and developing the solutions offered to users.</h1> <br/>
+    <h1 className="text-gray-400 mt-2 text-sm"><span className="font-bold text-gray-400 mt-2 text-sm">Year: </span>2026</h1> <br/>
     <a href="https://github.com/ValtrustET26/valtrust-website.git" className="text-sky-400" target="_blank" rel="noopener noreferrer" >View Github repository</a>
   </div>
 
