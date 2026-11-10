@@ -16,7 +16,7 @@ export default function Work(){
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 w-full">
 
-<div className="border border-gray-700 rounded-2xl p-5 shadow-lg hover:shadow-xl hover:border-gray-500 transition-all duration-300 min-h-80">
+<div className="border border-gray-700  rounded-2xl p-5 shadow-lg hover:shadow-xl hover:border-gray-500 transition-all duration-300 min-h-80">
     <div className="overflow-hidden rounded-xl">
       <Image
         src="/savvyshop.png"
@@ -27,9 +27,9 @@ export default function Work(){
       />
     </div>
 
-    <div className="flex items-center justify-between mt-5">
+    <div className="flex items-center justify-between mt-5 ">
       <h1 className="text-2xl font-semibold">Savvyshop</h1>
-      <a href="https://apps.powerapps.com/play/e/default-d8e3bd44-0bba-426b-952d-ada7bb17393c/a/aaec0745-db8c-4ca3-8514-c47b4c406632?tenantId=d8e3bd44-0bba-426b-952d-ada7bb17393c&hint=0bc75d18-a555-4821-a836-6d68e094b1c1&sourcetime=1793852176203" target="_blank" rel="noopener noreferrer">
+      <a href="https://make.powerapps.com/e/Default-d8e3bd44-0bba-426b-952d-ada7bb17393c/canvas/?action=edit&app-id=%2Fproviders%2FMicrosoft.PowerApps%2Fapps%2Faaec0745-db8c-4ca3-8514-c47b4c406632" target="_blank" rel="noopener noreferrer">
         <FiArrowUpRight className="text-2xl group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
       </a>
       
@@ -39,19 +39,19 @@ export default function Work(){
      A platform designed to compare market prices and help users manage their personal budgets through an integrated budgeting system.
     </p>
     <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 mt-5">
-      <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
+      <div className="bg-slate-900/40 border border-slate-700/40 rounded-lg px-3 py-2 text-center text-xs shadow-md">
      Power Apps
     </div>
 
-    <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
+    <div className="bg-slate-900/40 border border-slate-700/40 rounded-lg px-3 py-2 text-center text-xs shadow-md">
       SharePoint
     </div>
 
-    <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
+    <div className="bg-slate-900/40 border border-slate-700/40 rounded-lg px-3 py-2 text-center text-xs shadow-md">
       Figma
     </div>
 
-    <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
+    <div className="bg-slate-900/40 border border-slate-700/40 rounded-lg px-3 py-2 text-center text-xs shadow-md">
       Copilot
     </div>
 
@@ -86,27 +86,27 @@ export default function Work(){
 
   <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 mt-5">
 
-    <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
+    <div className="bg-slate-900/40 border border-slate-700/40 rounded-lg px-3 py-2 text-center text-xs shadow-md">
       Next.js
     </div>
 
-    <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
+    <div className="bg-slate-900/40 border border-slate-700/40 rounded-lg px-3 py-2 text-center text-xs shadow-md">
       React
     </div>
 
-    <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
+    <div className="bg-slate-900/40 border border-slate-700/40 rounded-lg px-3 py-2 text-center text-xs shadow-md">
       Tailwind CSS
     </div>
 
-    <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
+    <div className="bg-slate-900/40 border border-slate-700/40 rounded-lg px-3 py-2 text-center text-xs shadow-md">
       Clerk
     </div>
 
-    <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
+    <div className="bg-slate-900/40 border border-slate-700/40 rounded-lg px-3 py-2 text-center text-xs shadow-md">
       Gemini
     </div>
 
-    <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
+    <div className="bg-slate-900/40 border border-slate-700/40 rounded-lg px-3 py-2 text-center text-xs shadow-md">
       Three.js
     </div>
 
@@ -141,27 +141,27 @@ export default function Work(){
     A platform designed to verify property ownership and improve trust in real estate transactions.
     </p>
     <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 mt-5">
-      <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
+      <div className="bg-slate-900/40 border border-slate-700/40 rounded-lg px-3 py-2 text-center text-xs shadow-md">
       Next.js
     </div>
 
-    <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
+    <div className="bg-slate-900/40 border border-slate-700/40 rounded-lg px-3 py-2 text-center text-xs shadow-md">
       React
     </div>
 
-    <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
+    <div className="bg-slate-900/40 border border-slate-700/40 rounded-lg px-3 py-2 text-center text-xs shadow-md">
       Tailwind CSS
     </div>
 
-    <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
+    <div className="bg-slate-900/40 border border-slate-700/40 rounded-lg px-3 py-2 text-center text-xs shadow-md">
       Clerk
     </div>
 
-    <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
+    <div className="bg-slate-900/40 border border-slate-700/40 rounded-lg px-3 py-2 text-center text-xs shadow-md">
       Gemini
     </div>
 
-    <div className="border border-white/70 rounded-lg px-3 py-2 text-center text-xs shadow-md">
+    <div className="bg-slate-900/40 border border-slate-700/40 rounded-lg px-3 py-2 text-center text-xs shadow-md">
       Tesseract OCR
     </div>
     </div><br />

@@ -25,7 +25,7 @@ export default function Skill(){
 
     <button 
     onClick={()=> window.open('powerPoint.pdf','_blank')}
-    className="bg-[#112369] hover:bg-blue-800  text-white text-xs px-4 py-2 rounded-lg transition-colors w-fit">
+    className="bg-[#112369] cursor-pointer hover:bg-blue-800  text-white text-xs px-4 py-2 rounded-lg transition-colors w-fit">
       View Certificate
     </button>
 
@@ -40,7 +40,7 @@ export default function Skill(){
 
     <button
     onClick={()=> window.open('/ingles_medico.pdf', '_blank')}
-    className="bg-[#112369]  hover:bg-blue-800 text-white text-xs px-4 py-2 rounded-lg transition-colors w-fit shrink-0">
+    className="bg-[#112369] cursor-pointer hover:bg-blue-800 text-white text-xs px-4 py-2 rounded-lg transition-colors w-fit shrink-0">
       View Certificate
     </button>
 
@@ -55,14 +55,11 @@ export default function Skill(){
 
     <button 
     onClick={()=> window.open('first_aid.pdf','_blank')}
-    className="bg-[#112369] hover:bg-blue-800 text-white text-xs px-4 py-2 rounded-lg transition-colors w-fit">
+    className="bg-[#112369] cursor-pointer hover:bg-blue-800 text-white text-xs px-4 py-2 rounded-lg transition-colors w-fit">
       View Certificate
     </button>
 
   </div>
-
-  
-
   
 
   <div className="relative flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
@@ -73,9 +70,9 @@ export default function Skill(){
     Course of Prompt Engineering - May 23, 2026
     </h1>
 
-    <button 
+    <button
     onClick={()=> window.open('prompt.pdf')}
-    className="bg-[#112369]  hover:bg-blue-800 text-white text-xs px-4 py-2 rounded-lg transition-colors w-fit shrink-0">
+    className="bg-[#112369] cursor-pointer  hover:bg-blue-800 text-white text-xs px-4 py-2 rounded-lg transition-colors w-fit shrink-0">
       View Certificate
     </button>
 
@@ -90,7 +87,7 @@ export default function Skill(){
 
     <button 
     onClick={()=> window.open('Excel_expert.pdf')}
-    className="bg-[#112369]  hover:bg-blue-800 text-white text-xs px-4 py-2 rounded-lg transition-colors w-fit shrink-0">
+    className="bg-[#112369] cursor-pointer hover:bg-blue-800 text-white text-xs px-4 py-2 rounded-lg transition-colors w-fit shrink-0">
       View Certificate
     </button>
 
@@ -105,7 +102,7 @@ export default function Skill(){
 
     <button 
     onClick={()=> window.open('Excel_associate.pdf')}
-    className="bg-[#112369]  hover:bg-blue-800 text-white text-xs px-4 py-2 rounded-lg transition-colors w-fit shrink-0">
+    className="bg-[#112369] cursor-pointer hover:bg-blue-800 text-white text-xs px-4 py-2 rounded-lg transition-colors w-fit shrink-0">
       View Certificate
     </button>
 
