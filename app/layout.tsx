@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Digital Profile",
-  description: "Personal profile of Josué Hernández",
+  title: "Digital Portfolio",
+  description: "Personal portfolio of Josué Hernández",
   icons: {
     icon: "/logo.png",
   },
